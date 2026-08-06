@@ -27,4 +27,4 @@
    - Change `MAX_DISTANCE` in the code if 20 cm is too close/far for your bin.
    - Adjust `servo.write(90)` if 90° doesn't fully open your specific lid mechanism.
 
- 
+ ![Screenshot](Screenshot_2026-08-06-14-53-18-73_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
